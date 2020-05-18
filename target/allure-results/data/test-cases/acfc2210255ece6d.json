@@ -1,0 +1,68 @@
+{
+  "uid" : "acfc2210255ece6d",
+  "name" : "test",
+  "fullName" : "core.PrimeNumberCheckerTest.test",
+  "historyId" : "9071057bd4402a30f8340ff80ca96f76",
+  "time" : {
+    "start" : 1589793507284,
+    "stop" : 1589793507318,
+    "duration" : 34
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "core.PrimeNumberCheckerTest"
+  }, {
+    "name" : "testClass",
+    "value" : "core.PrimeNumberCheckerTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "HW_36"
+  }, {
+    "name" : "suite",
+    "value" : "Prime Number Checker with Allure Report"
+  }, {
+    "name" : "subSuite",
+    "value" : "core.PrimeNumberCheckerTest"
+  }, {
+    "name" : "host",
+    "value" : "vofking-Aspire-R7-372T"
+  }, {
+    "name" : "thread",
+    "value" : "52361@vofking-Aspire-R7-372T.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "TC-01.01 (2 is prime number)"
+  }, {
+    "name" : "arg1",
+    "value" : "2"
+  }, {
+    "name" : "arg2",
+    "value" : "true"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "acfc2210255ece6d.json",
+  "parameterValues" : [ "TC-01.01 (2 is prime number)", "2", "true" ]
+}

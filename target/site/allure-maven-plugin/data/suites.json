@@ -1,0 +1,137 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "HW_36",
+    "children" : [ {
+      "name" : "Prime Number Checker with Allure Report",
+      "children" : [ {
+        "name" : "core.PrimeNumberCheckerTest",
+        "children" : [ {
+          "name" : "test",
+          "uid" : "48ab47e66a61fdeb",
+          "parentUid" : "320ab8d7f8f82936f469dd5d48d8e329",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589799206962,
+            "stop" : 1589799206987,
+            "duration" : 25
+          },
+          "flaky" : false,
+          "parameters" : [ "TC-01.01 (2 is prime number)", "2", "true" ]
+        }, {
+          "name" : "test",
+          "uid" : "dc76a3660a0f9e",
+          "parentUid" : "320ab8d7f8f82936f469dd5d48d8e329",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589799207157,
+            "stop" : 1589799207160,
+            "duration" : 3
+          },
+          "flaky" : false,
+          "parameters" : [ "TC-01.02 (3 is prime number)", "3", "true" ]
+        }, {
+          "name" : "test",
+          "uid" : "1ea6bc0ec44731b4",
+          "parentUid" : "320ab8d7f8f82936f469dd5d48d8e329",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589799207164,
+            "stop" : 1589799207166,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "parameters" : [ "TC-01.03 (4 is not prime number)", "4", "false" ]
+        }, {
+          "name" : "test",
+          "uid" : "8ccd760af09c8bd1",
+          "parentUid" : "320ab8d7f8f82936f469dd5d48d8e329",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589799207169,
+            "stop" : 1589799207171,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "parameters" : [ "TC-01.04 (5 is prime number)", "5", "true" ]
+        }, {
+          "name" : "test",
+          "uid" : "7897a6a7fc6eb1e8",
+          "parentUid" : "320ab8d7f8f82936f469dd5d48d8e329",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589799207174,
+            "stop" : 1589799207175,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "TC-01.05 (6 is not prime number)", "6", "false" ]
+        }, {
+          "name" : "test",
+          "uid" : "b9be3ddd860b2514",
+          "parentUid" : "320ab8d7f8f82936f469dd5d48d8e329",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589799207177,
+            "stop" : 1589799207178,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "TC-01.06 (7 is prime number)", "7", "true" ]
+        }, {
+          "name" : "test",
+          "uid" : "cb707eaf5c1f07d9",
+          "parentUid" : "320ab8d7f8f82936f469dd5d48d8e329",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589799207184,
+            "stop" : 1589799207185,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "TC-01.07 (8 is not prime number)", "8", "false" ]
+        }, {
+          "name" : "test",
+          "uid" : "873904d130786225",
+          "parentUid" : "320ab8d7f8f82936f469dd5d48d8e329",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589799207188,
+            "stop" : 1589799207189,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "TC-01.08 (9 is not prime number)", "9", "false" ]
+        }, {
+          "name" : "test",
+          "uid" : "e2a0fc368416f697",
+          "parentUid" : "320ab8d7f8f82936f469dd5d48d8e329",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589799207191,
+            "stop" : 1589799207192,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "TC-01.09 (10 is not prime number)", "10", "false" ]
+        }, {
+          "name" : "test",
+          "uid" : "7b41658847706125",
+          "parentUid" : "320ab8d7f8f82936f469dd5d48d8e329",
+          "status" : "passed",
+          "time" : {
+            "start" : 1589799207194,
+            "stop" : 1589799207195,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ "TC-01.10 (11 is prime number)", "11", "true" ]
+        } ],
+        "uid" : "320ab8d7f8f82936f469dd5d48d8e329"
+      } ],
+      "uid" : "a52978e090a5406a13cbaa24181f6bcf"
+    } ],
+    "uid" : "d29b250a214714213e7af4c1cfaf3320"
+  } ],
+  "name" : "suites"
+}

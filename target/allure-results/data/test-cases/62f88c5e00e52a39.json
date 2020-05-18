@@ -1,0 +1,101 @@
+{
+  "uid" : "62f88c5e00e52a39",
+  "name" : "test",
+  "fullName" : "core.PrimeNumberCheckerTest.test",
+  "historyId" : "dfdf47c02a2f4d3f8bc5f43fc09ff41c",
+  "time" : {
+    "start" : 1589793507751,
+    "stop" : 1589793507752,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "core.PrimeNumberCheckerTest"
+  }, {
+    "name" : "testClass",
+    "value" : "core.PrimeNumberCheckerTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "HW_36"
+  }, {
+    "name" : "suite",
+    "value" : "Prime Number Checker with Allure Report"
+  }, {
+    "name" : "subSuite",
+    "value" : "core.PrimeNumberCheckerTest"
+  }, {
+    "name" : "host",
+    "value" : "vofking-Aspire-R7-372T"
+  }, {
+    "name" : "thread",
+    "value" : "52361@vofking-Aspire-R7-372T.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "TC-01.10 (11 is prime number)"
+  }, {
+    "name" : "arg1",
+    "value" : "11"
+  }, {
+    "name" : "arg2",
+    "value" : "true"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2a2af13d341c5b6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589792668534,
+        "stop" : 1589792668535,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Passed",
+      "matchedStatuses" : [ "passed" ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "59c01f51bea74378",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589792668534,
+          "stop" : 1589792668535,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "62f88c5e00e52a39.json",
+  "parameterValues" : [ "TC-01.10 (11 is prime number)", "11", "true" ]
+}

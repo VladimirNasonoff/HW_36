@@ -1,0 +1,16 @@
+[ {
+  "values" : [ "QA" ],
+  "name" : "environment"
+}, {
+  "values" : [ "Ubuntu 20.04 LTS" ],
+  "name" : "os"
+}, {
+  "values" : [ "Vladimir Nasonoff" ],
+  "name" : "sdet"
+}, {
+  "values" : [ "Chrome 81.0" ],
+  "name" : "browser"
+}, {
+  "values" : [ "http://alex.academy" ],
+  "name" : "url"
+} ]
